@@ -22,7 +22,7 @@ I enjoy working with data to uncover patterns, trends, and insights that help bu
 - **Reporting & Dashboards**: Designing interactive and informative reports and dashboards in Power BI to track key metrics.
 
 ##Project 1
-
+ ![Commodity Price Analysis](IMAGES/Picture1.jpg)
 ## Let's Connect
 
 I’m excited to continue learning and growing as a data analyst. Feel free to check out my projects, and don’t hesitate to reach out if you have any questions or opportunities for collaboration.
