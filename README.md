@@ -4,7 +4,7 @@ This report outlines the data cleaning procedures performed on the biodata of a 
 
 1. Loading the Dataset
    - The dataset was read into a pandas DataFrame using `pd.read_excel("Dirty Data.xlsx")`.
-  ![](IMAGES/p1.jpg)
+  ![](IMAGES/p1.png)
 
 2. Splitting Bio Data
    - A column named `"Bio data with information on name, Email, age, City of Birth, and Gender"` was present in the dataset.
