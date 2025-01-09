@@ -32,6 +32,7 @@ This report outlines the data cleaning procedures performed on the biodata of a 
 5. Correcting Email Formatting
    - The `Email` column initially contained double `@@` symbols. This was corrected by replacing `@@` with a single `@`:   
 “data["Email"] = data["Email"].str.replace("@@", "@", regex=False)”
+
  ![](IMAGES/p5.png)
 
 6. Standardizing Full Names
