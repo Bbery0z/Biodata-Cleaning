@@ -24,6 +24,7 @@ This report outlines the data cleaning procedures performed on the biodata of a 
    - The `Age` was extracted from the `Email` column (which still contained age digits) using a regular expression:
  
  “data.insert(2, "Age", data["Email"].str.extract("(\\d+)"))”
+
 ![](IMAGES/p4.png)
  
  - The age digits were then removed from the `Email` column using `str.replace()`:
